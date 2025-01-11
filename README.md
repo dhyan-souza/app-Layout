@@ -1,6 +1,6 @@
-# myapp
+# App layout
 
-A new Flutter project.
+Atividade concluida do módulo 2 do curso de desenvolvimento Web.
 
 ## Getting Started
 
